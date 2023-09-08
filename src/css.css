@@ -1,0 +1,16 @@
+ .setStyle{
+    border: 2px solid rgb(180, 107, 94) ;
+    padding: 20px;
+    margin: 30px;
+    background: rgb(245, 192, 255);
+    border-radius:15px;
+
+}
+.Style{
+    border: 2px solid rgb(58, 8, 241) ;
+    padding: 20px;
+    margin: 30px;
+    background: rgb(255, 192, 247);
+    border-radius:15px;
+
+}
